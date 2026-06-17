@@ -2,7 +2,9 @@
 
 # Cell och vävnad
 
-![Cell och vävnad](images/cell_och_vavnad.png.jpeg)
+<div align="center">
+  <img src="images/cell_och_vavnad.png.jpeg" width="350">
+</div>
 
 ## Introduktion
 
